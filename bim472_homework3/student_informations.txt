@@ -1,0 +1,12 @@
+BIM472 HOMEWORK-3 Students
+
+Ayşegül Terzi - ID - 29330067606
+Oktay Kaya - ID - 20132595298
+
+
+
+
+!! IMPORTANT NOTE !!
+
+We made our homework as 2 folders, one of them is first.py and one of them is second.m 
+So please check both of them.
